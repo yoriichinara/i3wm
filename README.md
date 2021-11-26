@@ -1,3 +1,3 @@
 # i3wm
 
-Archivos de personalizaci
+Archivos de personalización trabajados sobre Manjaro i3
